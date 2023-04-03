@@ -41,9 +41,6 @@ Pessoa Autora
   <br>
 </p>
 
-💎 Demonstraçāo
-
-href: https://github.com/
 
 🖱️ Como rodar este projeto?
 
@@ -82,5 +79,7 @@ CSS - HTML - Javascript - React - React Router- Chakra-ui - Git
 
 
 🤖 Autor
-________________________________________________________________
+
 🔗 [LinkedIn](https://www.linkedin.com/in/laionpereira/)
+
+
